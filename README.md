@@ -58,7 +58,7 @@ By introducing clear, granular status categories (e.g., _In Progress: Triage_, _
 ---
 
 ### Q: **Where should we start?**  
-**A:** If you’re new to the concept, try mapping out your current incident or request statuses into a left-to-right flow. Look for overlapping or ambiguous statuses that might be masking bottlenecks. You can introduce clarity by renaming or splitting statuses based on the different kinds of work being performed. **Getting Started** lays out process at a high level.
+**A:** If you’re new to the concept, try mapping out your current incident or request statuses into a left-to-right flow. Look for overlapping or ambiguous statuses that might be masking bottlenecks. You can introduce clarity by renaming or splitting statuses based on the different kinds of work being performed.
 
 ---
 
