@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to day-to-day operations. It’s inspired by DevOps concepts—particularly the focus on continuous flow, feedback loops, and incremental improvements—but it’s not strictly a “DevOps” solution. Instead, it helps teams **map** the workflows of tickets or incidents to an **Operations Delivery Pipeline (ODP)**, from detection through resolution.
+The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to day-to-day operations. It’s inspired by DevOps concepts—particularly the focus on continuous flow, feedback loops, and incremental improvements—but it’s not strictly a “DevOps” solution. Instead, it helps teams **map** the workflows of tickets or incidents to an **Operations Delivery Pipeline (ODP)**, from detection through resolution in a way that aligns with the organizations governing framework.
 
 By introducing clear, granular status categories (e.g., _In Progress: Triage_, _Pending: Validation_), teams gain deeper visibility into exactly where work is at any given time. This visibility allows for more precise metrics, more targeted process improvements, and faster feedback loops.
 
