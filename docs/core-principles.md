@@ -20,9 +20,9 @@ Managing operations work through the lens of the incident lifecycle represents a
 
 Consider the table below representing a few rows of tickets. The first column with the generic status tells you very little about the current state of the work while the second allows for immediate assesment. To get a more accurate status, research would need to be done for each ticket. Contrast with the second column, where that information is readily available. 
 
-The build-up of tickets with a status of “In Progress: Triage” and “Pending: Validation” indicates possible bottlenecks needing attention, which would otherwise be obscured. For operations team members, this allows them to identify where they can contribute to progress the work. Being able to monitor and report on how work is flowing through the pipeline is what enables actionable feedback to the team at all levels.
+The build-up of tickets with a status of “Pending: Validation” indicates a possible bottleneck needing attention, which would otherwise be obscured. For operations team members, this allows them to identify where they can contribute to progress the work. Being able to monitor and report on how work is flowing through the pipeline is what enables actionable feedback to the team at all levels.
 
-| **Generic Status** | **Lifecycle Status**               |
+| **Generic Status** | **Lifecycle Status**                |
 |--------------------|-------------------------------------|
 | Open               | Discovery                           |
 | Open               | Discovery                           |
