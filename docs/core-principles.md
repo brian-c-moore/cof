@@ -18,29 +18,28 @@ The Continuous Operations Framework is a lifecycle-centric approach to managing 
 
 Managing operations work through the lens of the incident lifecycle represents a subtle but powerful shift. It allows for better visibility into the flow of work by providing additional context, improving identification of bottlenecks and scalability. For example, if tickets spend an unusually long time in a particular phase, it indicates an area that could benefit from process improvements or increased resources. Without visibility into the flow of work, identifying the correct phase becomes far more complex.
 
-Consider the table below representing a few rows of tickets. The first column with the generic status tells you very little about the current state of the work. To get a more accurate status, research would need to be done for each ticket. Contrast with the second column, where that information is readily available. The build-up of tickets with a status of “In Progress: Triage” and “Pending: Validation” indicates possible bottlenecks needing attention, which would otherwise be obscured. Being able to monitor and report on how work is flowing through the pipeline is what enables actionable feedback to the team.
+Consider the table below representing a few rows of tickets. The first column with the generic status tells you very little about the current state of the work while the second allows for immediate assesment. To get a more accurate status, research would need to be done for each ticket. Contrast with the second column, where that information is readily available. 
+
+The build-up of tickets with a status of “In Progress: Triage” and “Pending: Validation” indicates possible bottlenecks needing attention, which would otherwise be obscured. For operations team members, this allows them to identify where they can contribute to progress the work. Being able to monitor and report on how work is flowing through the pipeline is what enables actionable feedback to the team at all levels.
 
 | **Generic Status** | **Lifecycle Status**               |
 |--------------------|-------------------------------------|
 | Open               | Discovery                           |
 | Open               | Discovery                           |
-| Open               | Discovery                           |
-| In Progress        | Pending: Triage                     |
-| In Progress        | Triage In Progress                  |
-| In Progress        | Triage In Progress                  |
+| In Progress        | In Progress: Triage                 |
+| In Progress        | In Progress: Triage                 |
+| In Progress        | In Progress: Triage                 |
+| In Progress        | In Progress: Validation             |
+| In Progress        | In Progress: Remediation            |
+| In Progress        | In Progress: Remediation            |
+| Pending            | Pending: Risk Documentation         |
+| Pending            | Pending: Vendor Response            |
+| Pending            | Pending: Change Approval            |
 | Pending            | Pending: Change Approval            |
 | Pending            | Pending: Validation                 |
 | Pending            | Pending: Validation                 |
 | Pending            | Pending: Validation                 |
-| In Progress        | Validation In Progress              |
-| In Progress        | Resolution Execution                |
-| In Progress        | Resolution Execution                |
-| Pending            | Pending: Risk Documentation         |
-| Pending            | Waiting: Vendor Response            |
-| Open               | Discovery                           |
-| Open               | Discovery                           |
 | Pending            | Pending: Validation                 |
-| In Progress        | Triage In Progress                  |
 | Pending            | Pending: Validation                 |
 
 Note that while the COF is deeply rooted in DevOps principles, a Kanban board is not required to take advantage of this process. A Kanban is a visual representation of the data, but the same information can be represented in a list with sorting. This can simplify implementation.
