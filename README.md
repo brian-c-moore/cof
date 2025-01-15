@@ -10,11 +10,6 @@ By introducing clear, granular status categories (e.g., _In Progress: Triage_, _
 
 ---
 
-## Documentation
-[Introduction to COF](docs/core-principles.md#introduction)
-
----
-
 ## Key Principles
 
 1. **Lifecycle-Centric Approach**  
@@ -83,6 +78,11 @@ By introducing clear, granular status categories (e.g., _In Progress: Triage_, _
 
 5. **Iterate & Improve**  
    Use retrospectives and feedback loops to refine your pipeline. Remove stages that provide little value, add stages if they bring clarity, and update your metrics based on lessons learned.
+
+---
+
+## Documentation
+[Introduction to COF](docs/core-principles.md#introduction)
 
 ---
 
