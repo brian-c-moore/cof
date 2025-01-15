@@ -1,16 +1,22 @@
 # Continuous Operations Framework (COF)
 
-> A practical overlay that translates high-level lifecycle principles (ITIL, DevOps, NIST, ISO, etc.) into actionable operations workflows.
+> Bridging the gap between abstract lifecycle principles and actionable operations workflows.
 
-## Overview
+## Introduction
 
-The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to day-to-day operations. It’s inspired by DevOps and Lean IT concepts—particularly the focus on continuous flow, feedback loops, and incremental improvements—but it’s not strictly a “DevOps” or "Lean IT" solution. Instead, it helps teams **map** the workflows of tickets or incidents to an **Operations Delivery Pipeline (ODP)**, from detection through resolution in a way that aligns with the organizations governing framework.
+The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to optimizing day-to-day operations workflows. Inspired by DevOps and Lean IT principles—such as continuous flow, feedback loops, and incremental improvements—COF focuses on operationalizing high-level lifecycle principles like those found in ITIL, DevOps, or ISO standards.
 
-By introducing clear, granular status categories (e.g., _In Progress: Triage_, _Pending: Validation_), teams gain deeper visibility into exactly where work is at any given time. This visibility allows for more precise metrics, more targeted process improvements, and faster feedback loops.
+At its core, COF helps teams **map operational tasks into an Operations Delivery Pipeline (ODP)** that aligns with the organization's governing framework. By introducing clear and granular status categories (e.g., _In Progress: Triage_, _Pending: Validation_), it provides deeper visibility into work progress, enabling:
+
+- Precise tracking of tasks from detection through resolution.
+- Metrics that identify bottlenecks and inform improvements.
+- Faster, more actionable feedback loops.
+
+Unlike purely abstract frameworks, COF focuses on where the rubber meets the road: translating abstract lifecycle stages into tangible workflows. It ensures that operational processes remain compliant with governing standards while delivering value in real-time.
 
 ---
 
-## Key Principles
+## Core Principles
 
 1. **Lifecycle-Centric Approach**  
    COF organizes work around the lifecycle of a work item. It aims to align with overarching frameworks (ITIL, NIST, ISO, etc.) but focuses specifically on the **operational slice**—the stages where day-to-day human-driven work occurs.
@@ -82,7 +88,7 @@ By introducing clear, granular status categories (e.g., _In Progress: Triage_, _
 ---
 
 ## Documentation
-[Introduction to COF](docs/core-principles.md#introduction)
+[COF Core Principles](docs/core-principles.md#introduction)
 
 ---
 
