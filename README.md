@@ -18,83 +18,60 @@ Unlike purely abstract frameworks, COF focuses on where the rubber meets the roa
 
 ## Core Principles
 
-1. **Lifecycle-Centric Approach**  
-   COF organizes work around the lifecycle of a work item. It aims to align with overarching frameworks (ITIL, NIST, ISO, etc.) but focuses specifically on the **operational slice**—the stages where day-to-day human-driven work occurs.
+COF is built on three core principles:
 
-2. **Flow, Feedback, and Continuous Learning**  
-   Borrowing from _The Three Ways_ of DevOps, COF places an emphasis on:
-   - **Flow:** Streamlining how tickets move from detection to resolution.  
-   - **Feedback:** Creating quick feedback loops through clearly visible status stages.  
-   - **Continual Learning:** Using metrics and retrospectives to fine-tune processes.
+1. **Lifecycle-Centric Approach**: Operational workflows are designed to align with lifecycle stages, ensuring compliance with governing frameworks while maintaining adaptability.
+2. **Flow, Feedback, and Continuous Learning**: Workflows are structured for continuous flow and improvement, driven by actionable feedback loops.
+3. **Operational Clarity**: Granular status categories provide real-time insights into work progress, fostering transparency and precision.
 
-3. **Overlay, Not a Replacement**  
-   COF doesn’t aim to replace existing frameworks or processes if they’re already working well. Instead, it provides a flexible overlay or structure teams can adopt if they need clearer workflows or are struggling to implement continuous improvements in operations.
-
-4. **Granular Status Tracking**  
-   Instead of having overly broad statuses (like _Open_, _In Progress_, _Resolved_), COF encourages a more specific breakdown (e.g., _In Progress: Triage_, _In Progress: Investigation_, _Pending: Validation_). This level of detail makes it easier to spot bottlenecks and track exactly where a ticket stands in relation to the workflow or pipeline.
-
-5. **Metrics (Recommended, Not Required)**  
-   While metrics are extremely helpful (e.g., measuring how long each step takes, how many tickets remain in a certain status), COF doesn’t dictate a mandatory set of metrics. You can collect and track what’s right for your team’s maturity and goals.
-
-6. **Adaptability**  
-   Different organizations have different cultures, tools, and compliance needs. And different IT frameworks provide varying levels of guidance on how to structure operations work. COF is deliberately flexible. Use only the elements that make sense. If you already have a robust, efficient process, keep it!
+For a detailed explanation of these principles, see the [Core Principles document](docs/core-principles.md).
 
 ---
 
-## FAQ
+## Defining Key Terms
 
-### Q: **Isn’t this just another framework on top of ITIL, DevOps, etc.?**  
-**A:** COF is best seen as an **overlay** that takes the abstract, high-level guidance from standards or frameworks and helps you operationalize them. It doesn’t compete with or replace frameworks like ITIL or NIST. Instead, COF provides a practical, ticket-driven pipeline that brings those bigger frameworks to life in day-to-day operations.
+- **The Continuous Operations Framework (COF):** A structured set of guidelines, rooted in core DevOps principles, for enabling the continuous delivery of operations services.
+- **Operations Delivery Pipeline (ODP)**: A structured workflow that maps operational work items from detection through resolution, aligned with lifecycle stages.
+- **Work Item**: An incident, event, support request, or any unit of work the operations team needs to address, usually delivered in the form of a ticket.
+- **Lifecycle-Centric Approach**: Designing workflows that adhere to governing frameworks like ITIL or DevOps while remaining adaptable to organizational needs.
+- **Flow, Feedback, and Continuous Learning**: Structuring workflows to prioritize efficiency, incorporate feedback, and drive iterative improvements.
 
----
-
-### Q: **What if we already have a process that works well?**  
-**A:** If your process is reliable, efficient, and meets your organization’s needs, please continue using it. COF is designed for teams looking to improve or formalize their workflows. If you’ve got everything running smoothly, there’s no need for a major overhaul.
-
----
-
-### Q: **Do I have to measure everything in detail?**  
-**A:** No. COF *recommends* using metrics to help spot bottlenecks and gather insights, but it’s up to you to decide how much or how little you measure. Even something as simple as tracking how long tickets spend in each status can reveal valuable improvement opportunities.
-
----
-
-### Q: **Is this a pure DevOps approach?**  
-**A:** While we draw inspiration from DevOps and Lean IT principles (especially around continuous feedback and flow), the COF isn’t strictly a “DevOps” or "Lean IT" solution. Think of it as a pragmatic set of tools and ideas that help you apply DevOps-like thinking to **operations** work items—whether or not your entire organization identifies as “DevOps.”
-
----
-
-### Q: **Where should we start?**  
-**A:** If you’re new to the concept, try mapping out your current incident or request statuses into a left-to-right flow. Look for overlapping or ambiguous statuses that might be masking bottlenecks. You can introduce clarity by renaming or splitting statuses based on the different kinds of work being performed.
+For additional details, see the [Core Principles document](docs/core-principles.md).
 
 ---
 
 ## Getting Started
 
-1. **Review Your Governing Framework(s)**  
-   Identify the stages defined by your existing processes or frameworks—whether ITIL, ISO, NIST, etc. Note which ones require people-driven activities (versus automated steps).
+To get started with COF:
 
-2. **Lay Out Your Pipeline**  
-   Flatten these stages into an end-to-end pipeline view—_from detection to resolution_. Give each stage a descriptive name that clarifies what’s happening, so it can be reflected in tickets or boards.
-
-3. **Integrate With Your Tools**  
-   Adapt your ticketing system or Kanban board to reflect these new statuses. You don’t need to switch tools—just tweak labels or statuses as needed.
-
-4. **Experiment With Metrics**  
-   Start small: measure how many tickets reside in each status, or how long they stay there. Look for patterns or unusual clusters.
-
-5. **Iterate & Improve**  
-   Use retrospectives and feedback loops to refine your pipeline. Remove stages that provide little value, add stages if they bring clarity, and update your metrics based on lessons learned.
+1. **Read the Core Principles**: Familiarize yourself with the guiding principles in the [Core Principles document](docs/core-principles.md).
+2. **Map Your Workflows**: Identify your team’s operational workflows and align them with lifecycle stages.
+3. **Adopt the ODP**: Use the Operations Delivery Pipeline structure to organize tasks.
+4. **Iterate and Improve**: Implement feedback loops and monitor metrics to optimize workflows over time.
 
 ---
 
-## Documentation
-[COF Core Principles](docs/core-principles.md#introduction)
+## FAQ
+
+### Who is COF for?
+COF is designed for teams and organizations looking to operationalize high-level lifecycle principles like ITIL or DevOps while ensuring workflows remain adaptable and compliant.
+
+### Does COF replace existing frameworks?
+No, COF is an overlay that works alongside existing frameworks, translating abstract principles into tangible workflows.
+
+### Can COF scale to large organizations?
+Yes, COF is scalable and adaptable to different organizational sizes and structures.
+
+For more FAQs, see the [FAQ document](docs/faq.md).
 
 ---
 
-## Contributing / Feedback
+## Resources
 
-Currently, the framework is **small and focused**, so I don’t have a formal process for contributions. If you have suggestions, open an issue or pull request—or just reach out. I'm happy to collaborate and continuously improve.
+- [Core Principles](docs/core-principles.md)
+- [Examples](docs/examples.md)
+- [FAQ](docs/faq.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
 
 ---
 
