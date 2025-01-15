@@ -56,15 +56,6 @@ The build-up of tickets with a status of “Pending: Validation” indicates a p
 - **Work Item:**  
   An incident, event, support request, or any unit of work the operations team needs to address, usually delivered in the form of a ticket. The process is primarily aimed at work items that are not resolved in a single response and may need to flow through several stages.
 
-### DevOps Principles: The Three Ways
-The Continuous Operations Framework is heavily influenced by DevOps principles, particularly "The Three Ways," described in *The Phoenix Project* and *The DevOps Handbook* by Gene Kim and others. These emphasize:
-
-1. **Flow:** Optimizing the delivery of work from concept to value.  
-2. **Feedback:** Creating systems of learning and improvement by enabling feedback loops.  
-3. **Continual Learning and Experimentation:** Building a culture of resilience and innovation.
-
-For more details, see *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford, and *The DevOps Handbook* by Gene Kim, Patrick Debois, John Willis, and Jez Humble.
-
 ---
 
 ## Lifecycle Identification and Mapping Flow
@@ -86,3 +77,11 @@ The Continuous Operations Framework is flexible enough for customization and exp
 
 ---
 
+## DevOps Influences
+The Continuous Operations Framework is heavily influenced by DevOps principles, particularly "The Three Ways," described in *The Phoenix Project* and *The DevOps Handbook* by Gene Kim and others. These emphasize:
+
+1. **Flow:** Optimizing the delivery of work from concept to value.  
+2. **Feedback:** Creating systems of learning and improvement by enabling feedback loops.  
+3. **Continual Learning and Experimentation:** Building a culture of resilience and innovation.
+
+For more details, see *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford, and *The DevOps Handbook* by Gene Kim, Patrick Debois, John Willis, and Jez Humble.
