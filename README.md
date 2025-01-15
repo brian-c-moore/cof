@@ -53,14 +53,14 @@ To get started with COF:
 
 ## FAQ
 
-### Who is COF for?
-COF is designed for teams and organizations looking to operationalize high-level lifecycle principles like ITIL or DevOps while ensuring workflows remain adaptable and compliant.
+### Q: **Who is COF for?**
+**A:** COF is designed for teams and organizations looking to operationalize high-level lifecycle principles like ITIL or DevOps while ensuring workflows remain adaptable and compliant.
 
-### Does COF replace existing frameworks?
-No, COF is an overlay that works alongside existing frameworks, translating abstract principles into tangible workflows.
+### Q: **Does COF replace existing frameworks?**
+**A:** No, COF is an overlay that works alongside existing frameworks, translating abstract principles into tangible workflows.
 
-### Can COF scale to large organizations?
-Yes, COF is scalable and adaptable to different organizational sizes and structures.
+### Q: **Can COF scale to large organizations?**
+**A:** Yes, COF is scalable and adaptable to different organizational sizes and structures.
 
 For more FAQs, see the [FAQ document](docs/faq.md).
 
