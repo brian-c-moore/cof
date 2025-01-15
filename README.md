@@ -33,7 +33,7 @@ For a detailed explanation of these principles, see the [Core Principles documen
 - **The Continuous Operations Framework (COF):** A structured set of guidelines, rooted in core DevOps principles, for enabling the continuous delivery of operations services.
 - **Operations Delivery Pipeline (ODP)**: A structured workflow that maps operational work items from detection through resolution, aligned with lifecycle stages.
 - **Work Item**: An incident, event, support request, or any unit of work the operations team needs to address, usually delivered in the form of a ticket.
-- **Lifecycle-Centric Approach**: Designing workflows that adhere to governing frameworks like ITIL or DevOps while remaining adaptable to organizational needs.
+- **Lifecycle-Centric Approach**: Designing workflows from lifecycles that adhere to governing frameworks like ITIL or DevOps while remaining adaptable to organizational needs.
 - **Flow, Feedback, and Continuous Learning**: Structuring workflows to prioritize efficiency, incorporate feedback, and drive iterative improvements.
 
 For additional details, see the [Core Principles document](docs/core-principles.md).
