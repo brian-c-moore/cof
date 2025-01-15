@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to day-to-day operations. It’s inspired by DevOps concepts—particularly the focus on continuous flow, feedback loops, and incremental improvements—but it’s not strictly a “DevOps” solution. Instead, it helps teams **map** the workflows of tickets or incidents to an **Operations Delivery Pipeline (ODP)**, from detection through resolution in a way that aligns with the organizations governing framework.
+The **Continuous Operations Framework (COF)** is a lightweight, customizable approach to day-to-day operations. It’s inspired by DevOps and Lean IT concepts—particularly the focus on continuous flow, feedback loops, and incremental improvements—but it’s not strictly a “DevOps” or "Lean IT" solution. Instead, it helps teams **map** the workflows of tickets or incidents to an **Operations Delivery Pipeline (ODP)**, from detection through resolution in a way that aligns with the organizations governing framework.
 
 By introducing clear, granular status categories (e.g., _In Progress: Triage_, _Pending: Validation_), teams gain deeper visibility into exactly where work is at any given time. This visibility allows for more precise metrics, more targeted process improvements, and faster feedback loops.
 
@@ -58,7 +58,7 @@ By introducing clear, granular status categories (e.g., _In Progress: Triage_, _
 ---
 
 ### Q: **Is this a pure DevOps approach?**  
-**A:** While we draw inspiration from DevOps principles (especially around continuous feedback and flow), the COF isn’t strictly a “DevOps” methodology. Think of it as a pragmatic set of tools and ideas that help you apply DevOps-like thinking to **operations** work items—whether or not your entire organization identifies as “DevOps.”
+**A:** While we draw inspiration from DevOps and Lean IT principles (especially around continuous feedback and flow), the COF isn’t strictly a “DevOps” or "Lean IT" solution. Think of it as a pragmatic set of tools and ideas that help you apply DevOps-like thinking to **operations** work items—whether or not your entire organization identifies as “DevOps.”
 
 ---
 
