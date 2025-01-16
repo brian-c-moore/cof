@@ -1,7 +1,7 @@
 # Continuous Operations Framework: Core Principles
 
 ## Introduction
-The Continuous Operations Framework (COF) is a structured set of guidelines, rooted in core DevOps principles, for enabling the continuous delivery of operations services. The COF seeks to be in alignment with other operations management frameworks and serves as an overlay to transform high-level abstract lifecycle principles into actionable, ticket-driven processes.
+The Continuous Operations Framework (COF) is a structured set of guidelines utilizing a lifecycle-centric approach for enabling the continuous delivery of operations services. The COF seeks to be in alignment with other operations management frameworks and serves as an overlay to transform high-level abstract lifecycle principles into actionable, ticket-driven processes.
 
 This framework draws inspiration from the foundational DevOps principles, *The Three Ways*, in order to streamline the flow of operations work and deliver continuous service operations. In DevOps, the unit of work is typically code or a configuration change. The Operations Delivery Pipeline (ODP) manages the continuous stream of day-to-day operations work items, end-to-end through the entire lifecycle, and forms the cornerstone of this framework. While the COF is heavily rooted in DevOps and Lean IT principles, it does not strictly set out to be a “DevOps” or "Lean IT" solution.
 
