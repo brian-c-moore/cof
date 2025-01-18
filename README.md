@@ -4,9 +4,9 @@
 
 ## Introduction
 
-The **Continuous Operations Framework (COF)** is a lightweight, lifecycle-centric approach to optimizing day-to-day operations workflows. Inspired by DevOps and Lean IT principles—such as continuous flow, feedback loops, and incremental improvements—COF focuses on operationalizing high-level lifecycle principles like those found in ITIL, DevOps, or ISO standards.
+The **Continuous Operations Framework (COF)** is a lightweight, lifecycle-centric approach to optimizing day-to-day operations workflows. Inspired by DevOps and Lean IT principles—such as continuous flow, feedback loops, and incremental improvements—COF focuses on operationalizing high-level lifecycle principles like those found in ITIL, DevOps, ISO, and others. Where DevOps is concerned with moving code through a pipeline, COF is focsed on daily support tasks such as events and incidents detected through monitoring, support requests, secureity incidents, and other work items that involve operations team members.
 
-The COF fills a gap left by other frameworks by addressing **how** to operationalize lifecycle principles in day-to-day workflows for operations teams providing continual services. While established frameworks like ITIL, ISO, and DevOps define what needs to happen at a strategic or conceptual level, they often lack the detailed guidance required for implementing these principles in practical, human-driven operations. COF bridges this divide by introducing granular workflows, status categories, and feedback loops that align operational tasks with lifecycle stages, providing teams with the structure and visibility needed to deliver continuous improvement and operational excellence.
+The COF fills a gap left by other frameworks by addressing **how** to operationalize lifecycle principles in day-to-day workflows for operations teams providing continual services. Many established frameworks define what needs to happen at a strategic or conceptual level and often lack the detailed guidance required for implementing these principles in practical, human-driven operations. COF bridges this divide by introducing granular workflows, status categories, and feedback loops that align operational tasks with lifecycle stages, providing teams with the structure and visibility needed to deliver continuous improvement and operational excellence.
 
 At its core, COF helps teams **map operational tasks into an Operations Delivery Pipeline (ODP)** that aligns with the organization's governing framework. By introducing clear and granular status categories directly mapped to the workflow (e.g., _In Progress: Triage_, _Pending: Validation_), it provides deeper visibility into work progress, enabling:
 
@@ -32,10 +32,10 @@ For a detailed explanation of these principles, see the [Core Principles documen
 
 ## Defining Key Terms
 
-- **The Continuous Operations Framework (COF):** A structured set of guidelines, rooted in core DevOps principles, for enabling the continuous delivery of operations services.
+- **The Continuous Operations Framework (COF):** A structured set of guidelines that utilizes a lifecycle-centric approach for enabling the continuous delivery of operations services.
 - **Operations Delivery Pipeline (ODP)**: A structured workflow that maps operational work items from detection through resolution, aligned with lifecycle stages.
 - **Work Item**: An incident, event, support request, or any unit of work the operations team needs to address, usually delivered in the form of a ticket.
-- **Lifecycle-Centric Approach**: Designing workflows from lifecycles that adhere to governing frameworks like ITIL or DevOps while remaining adaptable to organizational needs.
+- **Lifecycle-Centric Approach**: Designing workflows from lifecycles that adhere to governing frameworks like ITIL, Agile, or DevOps while remaining adaptable to organizational needs.
 - **Flow, Feedback, and Continuous Learning**: Structuring workflows to prioritize efficiency, incorporate feedback, and drive iterative improvements.
 
 For additional details, see the [Core Principles document](docs/core-principles.md).
