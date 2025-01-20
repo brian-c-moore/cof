@@ -31,4 +31,4 @@
 ---
 
 ### Q: **Is this a pure DevOps approach?**  
-**A:** While we draw inspiration from DevOps and Lean IT principles (especially around continuous feedback and flow), the COF isn’t strictly a “DevOps” or "Lean IT" solution. Think of it as a pragmatic set of tools and ideas that help you apply DevOps-like thinking to **operations** work items—whether or not your entire organization identifies as “DevOps.”
+**A:** While COF draws inspiration from DevOps and Lean IT principles (especially around continuous feedback and flow), it isn’t strictly a “DevOps” or "Lean IT" solution. Think of it as a pragmatic set of tools and ideas that help you apply DevOps-like thinking to **operations** work items—whether or not your entire organization identifies as “DevOps.”
